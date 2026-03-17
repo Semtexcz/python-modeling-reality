@@ -146,9 +146,3 @@ Feel free to:
 * explore the notebooks
 * open issues or suggest ideas
 * or build your own models
-
----
-
-Pokud chceš, můžeme to ještě posunout o level výš:
-
-👉 přidat krátký **„manifest-style“ odstavec nahoru**, který tě ještě víc odliší (něco ve stylu Baťa / 0→1 thinking).
