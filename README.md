@@ -6,11 +6,11 @@ Modeling reality with Python — building intuitive and computational models of 
 
 ## 🚀 What is this repository?
 
-This repository is part of a broader idea:
+This repository explores a simple but powerful idea:
 
 > **Python is not just for web apps. Python can model reality.**
 
-It contains a collection of computational experiments that connect:
+It contains a growing collection of computational experiments that connect:
 
 * intuition
 * mathematics
@@ -18,23 +18,24 @@ It contains a collection of computational experiments that connect:
 * numerical methods
 * and Python
 
-The goal is simple:
-**understand real-world systems by building models and testing them computationally.**
+The goal is straightforward:
+
+> **Understand real-world systems by building models and validating them computationally.**
 
 ---
 
 ## 🎯 Approach
 
-Each topic in this repository follows the same pattern:
+Each topic in this repository follows the same structure:
 
-1. Start with a **real phenomenon**
+1. Start from a **real-world phenomenon**
 2. Build **intuition**
-3. Break it into **small numerical pieces (sums)**
-4. Transition to **mathematical formulation**
-5. Verify everything with **Python experiments and visualizations**
+3. Decompose the problem into **small numerical steps (sums)**
+4. Transition to a **mathematical description**
+5. Validate and explore the model using **Python simulations and visualizations**
 
 This is not about memorizing formulas.
-It is about **understanding how models emerge**.
+It is about understanding **how models are constructed and why they work**.
 
 ---
 
@@ -46,7 +47,7 @@ It is about **understanding how models emerge**.
 notebooks/vector_fields.ipynb
 ```
 
-This notebook covers:
+This notebook introduces and explores:
 
 * gradient
 * divergence
@@ -56,11 +57,11 @@ This notebook covers:
 * Gauss' theorem
 * Stokes' theorem
 
-All concepts are introduced:
+All concepts are developed:
 
-* intuitively
+* from intuition
 * step-by-step
-* and verified numerically
+* and verified through numerical experiments
 
 ---
 
@@ -68,9 +69,9 @@ All concepts are introduced:
 
 ### Google Colab (recommended)
 
-Run instantly in your browser:
+Run everything directly in your browser:
 
-👉 [Open in Colab](#)
+👉 [https://colab.research.google.com/drive/1r8G2HgYz01bzO_HKE1h8rg7QfiiMa4Wl?usp=sharing](https://colab.research.google.com/drive/1r8G2HgYz01bzO_HKE1h8rg7QfiiMa4Wl?usp=sharing)
 
 ### Local setup
 
@@ -93,39 +94,37 @@ This notebook accompanies a detailed article:
 
 ## 🧠 Why this matters
 
-Most modern models of reality are built the same way:
+Most modern models of reality are built on the same principle:
 
-* divide space into small elements
+* divide space (or data) into small elements
 * compute local behavior
-* sum everything together
+* aggregate the results
 
-This idea appears in:
+This pattern appears across many domains:
 
 * fluid dynamics
 * electromagnetism
 * heat transfer
 * probability and statistics
-* many engineering systems
+* engineering systems
 
-This repository shows how these models can be:
+This repository makes that process explicit by showing how models can be:
 
 * understood
-* built
-* and tested
+* constructed
+* and validated
 
-using simple Python experiments.
+using simple, transparent Python experiments.
 
 ---
 
-## 🔭 Future topics
+## 🔭 Future directions
 
-This is just the beginning.
-
-Planned areas include:
+This repository will expand into additional areas, including:
 
 * dynamical systems (motion, oscillations)
 * diffusion and transport
-* probability and statistical models
+* probabilistic and statistical models
 * optimization and control
 * simulation of complex systems
 
@@ -135,7 +134,7 @@ Planned areas include:
 
 This project is part of a broader effort to:
 
-> **build tools, models, and intuition for understanding complex systems**
+> **build intuition, tools, and computational models for understanding complex systems**
 
 ---
 
@@ -143,9 +142,13 @@ This project is part of a broader effort to:
 
 Feel free to:
 
-* star the repo
+* ⭐ star the repository
 * explore the notebooks
-* suggest ideas
+* open issues or suggest ideas
 * or build your own models
 
 ---
+
+Pokud chceš, můžeme to ještě posunout o level výš:
+
+👉 přidat krátký **„manifest-style“ odstavec nahoru**, který tě ještě víc odliší (něco ve stylu Baťa / 0→1 thinking).
